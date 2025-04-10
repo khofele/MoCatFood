@@ -1,4 +1,4 @@
-# Character-Animation-Projekt
+# Character-Animation-Projekt Mo'CatFood
 
 - Jasmin Smyczek
 - Robin Freitag
