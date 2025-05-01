@@ -1,0 +1,44 @@
+MOTION-CAPTURE-AUFNAHMEN
+
+HUMPELN
+John_Walk_01 Fail
+John_Walk_02 Gut
+John_Walk_03 Gut
+
+DOSE NEHMEN
+John_Can_01 Gut
+
+DOSE NEHMEN UND EINPACKEN
+John_Can_02 Sprünge in Aufnahme
+John_Can_03 Sprünge in Aufnahme
+John_Can_04 Gut
+
+DOSE NEHMEN UND WEGWERFEN
+John_Can_05 Gut
+
+TÜR AUFDRÜCKEN
+John_Door_01 Fail
+John_Door_02 Gut (mit durch Tür schauen)
+John_Door_03 Gut (ohne durch Tür schauen)
+
+John_Door_02_002 war ausversehen
+
+AN ZAUN RÜTTELN
+Judy_Fence_01 Gut
+Judy_Fence_02 Gut
+
+DURCH TÜR KLETTERN
+John_Climb_01 Gut
+John_Climb_02 Gut
+
+KATZE FÜTTERN
+John_Cat_01 Gut
+
+ENDE
+John_End_01 Gut
+
+INTRO 
+John_Intro_01 Gut
+
+IDLE
+John_Idle_01 Gut
