@@ -1,0 +1,9 @@
+Tutorial wie man richtig imported: Mesh + Animations
+https://www.youtube.com/watch?v=L4OcpF7-YB0
+
+Bug mit fehlenden Texturen fixen: (Texturen sind im Ordner John_Textures)
+https://www.youtube.com/watch?v=cputwFvy4ZU
+
+
+VORSICHT:
+Blender scaling ist in METER, Unreals ist in CENTIMETER, HEIßT (weil ich verkakt hab) kommt das John Mesh winzig rein beim import, einfach hochscalen auf das hundertfache!!!
