@@ -7,3 +7,14 @@ https://www.youtube.com/watch?v=cputwFvy4ZU
 
 VORSICHT:
 Blender scaling ist in METER, Unreals ist in CENTIMETER, HEIßT (weil ich verkakt hab) kommt das John Mesh winzig rein beim import, einfach hochscalen auf das hundertfache!!!
+
+
+
+John_Can_dispossal: 	scale 100x [works]
+John_Can_pickup: 	scale 1x, weird texture glitch im Torso [maybe fix]
+John_cat_feeding: 	scale 1x [works]
+John_DoorOpening: 	scale 1x, warum auch immer ist diese Animation auf zweifachen speed [works]
+John_End_dance: 	scale 100x, Füße am fliegen (probably wegen scaling) [must fix]
+John_HoleClimb: 	scale 1x, Hände sind Flach, leichte Rotationsissues mit Arm [maybe fix]
+John_IdleAnimation: 	[not implemented]
+John_Walking: 		complete abomination [fixing today]
