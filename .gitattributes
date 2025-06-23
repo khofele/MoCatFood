@@ -3,5 +3,4 @@
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
-Character-Animation-Projekt/Video/ filter=lfs diff=lfs merge=lfs -text
-Character-Animation-Projekt/Video/MoCatFood[[:space:]]Demovideo.mp4 filter=lfs diff=lfs merge=lfs -text
+Video/MoCatFood[[:space:]]Demovideo.mp4 filter=lfs diff=lfs merge=lfs -text
